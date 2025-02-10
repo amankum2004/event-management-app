@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 require("dotenv").config(); // to use the .env file
 
 
-mongo_url = 'mongodb+srv://amankumariitian2023:4lDfdoLJjK46j0Fg@blogapp.9qo0r.mongodb.net/eventify';
+mongo_url = '';
 
 // mongo_url = process.env.MONGO_URL;
 
